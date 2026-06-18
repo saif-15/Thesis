@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Crimson Pro', Georgia, serif;
+  background-color: #0a0a0f;
+  color: #e2e8f0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+textarea {
+  background-color: transparent;
+  border: none;
+  color: #e2e8f0;
+  font-size: 14px;
+  line-height: 1.6;
+  padding: 12px;
+  resize: none;
+}
+
+button {
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

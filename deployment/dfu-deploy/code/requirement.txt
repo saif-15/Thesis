@@ -1,0 +1,6 @@
+torch
+torchvision
+Pillow
+boto3
+seaborn
+sklearn
