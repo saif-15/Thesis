@@ -14,6 +14,9 @@ The pipeline addresses four critical gaps in existing DFU literature: lack of an
 
 ---
 
+## Dataset Used
+https://www.kaggle.com/datasets/laithjj/diabetic-foot-ulcer-dfu
+
 ## Pipeline Architecture
 
 The system follows a sequential four-stage workflow:
